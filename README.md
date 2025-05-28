@@ -23,6 +23,35 @@
 - Build a strong project portfolio on GitHub
 - Earn a work visa and relocate to the U.S. for IT work
 
+📈 Learning Roadmap (2025)
+
+Phase 1: Foundations (Now – July)
+
+🔄 Cisco CCNA (networking basics, routing/switching, CLI)
+
+✅ Google IT Support Certificate (Coursera)
+
+🛠 GitHub project: "Home Network Lab"
+
+
+Phase 2: Security Prep (August – October)
+
+🔄 CompTIA Security+ (threats, risk management, SOC basics)
+
+🧪 GitHub project: "SOC Analyst Practice" (log analysis, incident reports)
+
+💬 Apply for remote SOC Intern/Trainee roles
+
+
+Phase 3: Advance + Apply (November – January)
+
+🔄 TryHackMe / BlueTeamLabs / HTB labs
+
+🧪 GitHub project: "Blue Team Playbook"
+
+💼 Apply for U.S. internships, OPT/CPT eligible roles, or J1 visa routes
+
+
 ---
 
 📫 Contact: alihassanpro50@gmail.com
