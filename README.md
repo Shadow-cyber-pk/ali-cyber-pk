@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Shadow-cyber-pk!
+# 👋 Hi, I'm ali-cyber-pk!
 
 🎯 Aspiring Cybersecurity Analyst | Networking Enthusiast | Former Electrical Apprentice  
 📍 Based in Pakistan | 🌍 Goal: Work in the U.S. through IT/Cybersecurity  
